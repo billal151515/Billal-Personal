@@ -222,9 +222,17 @@ https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/any
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.ibb.co/0VMyN8b/IMG-20240126-095916.png",DESI CHANNEL
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.ibb.co/GxHV7q5/IMG-20240126-122220.pngg",ETV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/FRrHfYJ.jpg",Mr.Been
+https://da.gd/mrbnfreetv
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/JYQvZ9K.png",Tom & Jerry 
+http://xtv.ooo:8080/live/T4S00515/820172/347942.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/BnDxCLqc/Shiva-Nick-2016.jpg",Shiva
+http://xtv.ooo:8080/live/T4S00515/820172/342074.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/SR88PSTB/images-4-21.jpg",Motu Patlu
+http://xtv.ooo:8080/live/415663775/826262627/307079.ts
+
+****Documentary
 
 #EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/PcBBG8W/IMG-20240129-071139.png",NAT GEO Wild
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8 
