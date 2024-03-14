@@ -35,6 +35,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://s.id/Diptotv
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/Rh9v7G9F/images-4.jpg",Satv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladeshi"tvg-logo="",Tara Tv
+http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/tTsNMPPb/NTV-Bangladesh-logo-svg.png",NTV
 https://s.id/23OKU
 ****Islamic
@@ -100,10 +102,8 @@ http://starshare.live:8080/live/Amie123/Amie123/3753.ts
 #EXTINF:-1 group-title="Indian Bangla"tvg-logo="https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla"tvg-logo="",Tara Tv
-http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla"tvg-logo="",Tara TV
+
 
 ****Indian/Hindi
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/f0W7bQJ/IMG-20240126-113922.jpg",Star Gold HD
