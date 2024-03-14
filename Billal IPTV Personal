@@ -693,10 +693,9 @@ https://bongodrive.pw/bioscope.m3u8?id=mtv-beats
 https://bongodrive.pw/bioscope.m3u8?id=vh1
 #EXTINF: -1 tvg-id="65" tvg-name="Sony Yay" tvg-chno="1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d20356ee-1ca5-4792-94ec-bb900504437b/bf8b3f46-c810-420f-a90d-9f6834c36b3c.png?width=300" group-title="Bioscope", Sony Yay
 https://bongodrive.pw/bioscope.m3u8?id=sony-yay-live
-#EXTINF:-1 group-title="Bioscope"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e0860fc1-7dc4-42dc-acbd-51ec4c3a97f2/26f092d0-b009-46b4-ad34-f7b6d9c20a13.png?width",Sony Pix
+#EXTINF:-1 group-title="Bioscope" tvg-logo="",Sony Pix
 https://bongodrive.pw/bioscope.m3u8?id=sony-pix-live
-#EXTINF:-1 group-title="Bioscope"tvg-logo="",Sony pal
+#EXTINF:-1 group-title="Bioscope" tvg-logo="",Sony pal
 https://bongodrive.pw/bioscope.m3u8?id=sony-pal
-
-#EXTINF:-1 group-title="Bioscope"tvg-logo=""Sony Max HD
+#EXTINF:-1 group-title="Bioscope" tvg-logo=""Sony Max HD
 https://bongodrive.pw/bioscope.m3u8?id=sony-max-hd-live
