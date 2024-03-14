@@ -698,5 +698,6 @@ https://bongodrive.pw/bioscope.m3u8?id=sony-yay-live
 https://bongodrive.pw/bioscope.m3u8?id=sony-pal
 #EXTINF:-1 group-title="Bioscope" tvg-logo="",Sony Max HD
 https://bongodrive.pw/bioscope.m3u8?id=sony-max-hd-live
+
 #EXTINF:-1 group-title="Bioscope" tvg-logo="",Sony Pix
 https://bongodrive.pw/bioscope.m3u8?id=sony-pix-live
