@@ -580,8 +580,7 @@ https://bongodrive.pw/bioscope.m3u8?id=sony-ten-1-live
 https://bongodrive.pw/bioscope.m3u8?id=sony-hd-live
 #EXTINF: -1 tvg-id="4" tvg-name="Sony Sports Ten 5" tvg-chno="1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5f317e1-3503-40fa-ad37-8ad341109a85/953f7afc-76c7-41a2-b775-644121768d97.png?width=300" group-title="Bioscope", Sony Sports Ten 5
 https://bongodrive.pw/bioscope.m3u8?id=sony-ten-5
-#EXTINF: -1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/bc31f211-29d9-43be-88b1-0176cc608c06/721af74c-cda6-4144-942c-5b84f573ade8.png?width=300" group-title="Bioscope", Sony MAX HD
-https://bongodrive.pw/bioscope.m3u8?id=sony-max-hd-live
+
 #EXTINF: -1 tvg-id="6" tvg-name="Sony Sports Ten 2" tvg-chno="1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e2174a76-fc11-4609-bb83-aa94aa117a27/c8ea1bab-49ab-4702-be5e-7058bbf6a591.png?width=300" group-title="Bioscope", Sony Sports Ten 2
 https://bongodrive.pw/bioscope.m3u8?id=sony-ten-2-live
 #EXTINF: -1 tvg-id="7" tvg-name="Sony Sports Ten 3" tvg-chno="1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84ae1e76-ec5e-44da-bd8f-b1c9d9663b26/d33a8bd6-14b0-4bb4-84ac-6fb3ec426611.png?width=300" group-title="Bioscope", Sony Sports Ten 3
@@ -658,8 +657,7 @@ https://bongodrive.pw/bioscope.m3u8?id=lotus-macau-live
 https://bongodrive.pw/bioscope.m3u8?id=news-24-hd
 #EXTINF: -1 tvg-id="46" tvg-name="DBC News" tvg-chno="1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/425f4cb8-edd6-482b-a49e-85528f60225d/eaf3e854-9d2d-4d0d-aa74-ff49c8b353de.png?width=300" group-title="Bioscope", DBC News
 https://bongodrive.pw/bioscope.m3u8?id=dbc-news
-#EXTINF: -1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e0860fc1-7dc4-42dc-acbd-51ec4c3a97f2/26f092d0-b009-46b4-ad34-f7b6d9c20a13.png?width=300" group-title="Bioscope", Sony Pix
-https://bongodrive.pw/bioscope.m3u8?id=sony-pix-live
+
 #EXTINF: -1 tvg-id="48" tvg-name="SA TV" tvg-chno="1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d40e8576-cc38-494c-bca6-b732fe9a95a5/bb73b3db-8be1-4ba5-b34c-2bf55d7a6a14.png?width=300" group-title="Bioscope", SATV
 https://bongodrive.pw/bioscope.m3u8?id=sa-tv
 #EXTINF: -1 tvg-id="49" tvg-name="Sony SAB TV" tvg-chno="1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/825a35e8-a1c7-4abf-84cf-d9b7e21e5657/0369f492-c12f-4dab-a2a9-a090943521dc.png?width=300" group-title="Bioscope", Sony SAB TV
@@ -670,8 +668,7 @@ https://bongodrive.pw/bioscope.m3u8?id=mohona-tv
 https://bongodrive.pw/bioscope.m3u8?id=bbc-earth-hd-live
 #EXTINF: -1 tvg-id="52" tvg-name="My TV" tvg-chno="1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/7d1c5d3f-449d-4bf5-9a7e-ab8079ebecd4/11e79c92-ff02-4fcd-be6d-7f3023b157b8.png?width=300" group-title="Bioscope", My TV
 https://bongodrive.pw/bioscope.m3u8?id=my-tv
-#EXTINF: -1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e0aa7349-6c5a-4635-96e2-caa5c535e961/10116794-5177-49f6-89ac-979a7dd9f904.png?width=300" group-title="Bioscope", Sony Pal
-https://bongodrive.pw/bioscope.m3u8?id=sony-pal
+
 #EXTINF: -1 tvg-id="54" tvg-name="MAX 2" tvg-chno="1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b8889e85-bc30-4fbc-8a8d-76fb798534eb/104bc03f-1390-4257-b8e9-70aa76a150d3.png?width=300" group-title="Bioscope", MAX 2
 https://bongodrive.pw/bioscope.m3u8?id=max-2
 #EXTINF: -1 tvg-id="55" tvg-name="Nickelodeon" tvg-chno="1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a980e48-4495-407e-b422-ad7633bae4dd/ea443332-ed92-49c3-8221-c1c86b05f13f.png?width=300" group-title="Bioscope", Nickelodeon
@@ -696,3 +693,10 @@ https://bongodrive.pw/bioscope.m3u8?id=mtv-beats
 https://bongodrive.pw/bioscope.m3u8?id=vh1
 #EXTINF: -1 tvg-id="65" tvg-name="Sony Yay" tvg-chno="1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d20356ee-1ca5-4792-94ec-bb900504437b/bf8b3f46-c810-420f-a90d-9f6834c36b3c.png?width=300" group-title="Bioscope", Sony Yay
 https://bongodrive.pw/bioscope.m3u8?id=sony-yay-live
+#EXTINF:-1 group-title="Bioscope"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e0860fc1-7dc4-42dc-acbd-51ec4c3a97f2/26f092d0-b009-46b4-ad34-f7b6d9c20a13.png?width",Sony Pix
+https://bongodrive.pw/bioscope.m3u8?id=sony-pix-live
+#EXTINF:-1 group-title="Bioscope"tvg-logo="",Sony pal
+https://bongodrive.pw/bioscope.m3u8?id=sony-pal
+
+#EXTINF:-1 group-title="Bioscope"tvg-logo=""Sony Max HD
+https://bongodrive.pw/bioscope.m3u8?id=sony-max-hd-live
