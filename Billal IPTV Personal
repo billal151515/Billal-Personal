@@ -328,7 +328,7 @@ https://s.id/246b0
 https://s.id/23E6v
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/CLzZ3Vj7/1200px-STAR-Movies-logo-svg.png",Star Movies BDIX
 https://test.bongodrive.pw/bdix.m3u8?ac=1605
-#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/CLzZ3Vj7/1200px-STAR-Movies-logo-svg.png",Star
+
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/CLzZ3Vj7/1200px-STAR-Movies-logo-svg.png",Star Movies 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
@@ -338,6 +338,7 @@ https://s.id/starMS
 http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Y0nTTs5G/images-2.jpg",Movies Now BDIX
 https://s.id/23DYu
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/CLzZ3Vj7/1200px-STAR-Movies-logo-svg.png",Star
 
 ****Music
 
