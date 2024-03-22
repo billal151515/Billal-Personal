@@ -824,21 +824,108 @@ http://172.16.29.242:8080/show/5052/index.m3u8
 http://172.16.29.242:8080/show/5042/index.m3u8
 #EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Sports3
 http://172.16.29.242:8080/show/5019/index.m3u8
-#EXTINF:-1  LiveTV BDIX" tvg-logo="",
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Sports Select1
+http://172.16.29.242:8080/show/5055/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Sports Select2
+http://172.16.29.242:8080/show/5043/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",T Sport
+http://172.16.29.242:8080/show/5067/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Via Play Sport1
+http://172.16.29.242:8080/show/5066/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Masti
+http://172.16.29.242:8080/show/4124/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",9XM
+http://172.16.29.242:8080/show/4122/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Gan Bangla
+http://172.16.29.242:8080/show/4018/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sangeet Bangla
+http://172.16.29.242:8080/show/4120/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Animal Planet
+http://172.16.29.242:8080/show/5025/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Discovery HD
+http://172.16.29.242:8080/show/5026/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",National Geographic
+http://172.16.29.242:8080/show/5036/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",NatGeo Wild
+http://172.16.29.242:8080/show/5027/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sony BBC Earth
+http://172.16.29.242:8080/show/5038/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Travel XP
+http://172.16.29.242:8080/show/5046/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Cartoon Network HD
+http://172.16.29.242:8080/show/5012/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sonic
+http://172.16.29.242:8080/show/5041/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Nick
+http://172.16.29.242:8080/show/5024/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sony Yay
+http://172.16.29.242:8080/show/5023/index.m3u8
 
-#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+**** SkyFeed
+
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Al jajira
+http://103.109.56.116/live/skyfeed1024/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Animal Planet
+http://103.109.56.116/live/funtime1025/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Bangla Vision
+http://103.109.56.116/live/skyfeed1009/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Colors Bangla
+http://103.109.56.116/live/skyfeed1017/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",DBC News
+http://103.109.56.116/live/funtime108/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Deepto TV
+http://103.109.56.116/live/skyfeed1011/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Discovery
+http://103.109.56.116/live/funtime106/index.m3u8
+
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Ekattor TV
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Gazi TV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Independent TV
+http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Jamuna TV
+http://103.109.56.116/live/skyfeed1021/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Maasranga
+http://103.109.56.116/live/skyfeed1013/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",News24
+http://103.109.56.116/live/funtime109/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Nick
+http://103.109.56.116/live/funtime110/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Pogo
+http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",PTV Sport
+http://103.109.56.116/live/funtime107/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Somoy TV
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Sony Aath
+http://103.109.56.116/live/skyfeed1016/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Sony Sports2
+http://103.109.56.116/live/skyfeed1008/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Sony Sports5
+http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Sony Sports1
+http://103.109.56.116/live/skyfeed1007/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Stsr sports1
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Star Sports2
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Star Jalsha
+http://103.109.56.116/live/funtime112/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Star Sports Select1
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Sunnah
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",T Sports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",Zee Bangla
+http://103.109.56.116/live/funtime111/index.m3u8
 
 
-#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",
 
-#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",
 
-#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",
 
-#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
-
-#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
-
-#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
-
-#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+#EXTINF:-1 group-title="SkyFeed" tvg-logo="",
