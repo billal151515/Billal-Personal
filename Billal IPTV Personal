@@ -705,3 +705,140 @@ https://bongodrive.pw/bioscope.m3u8?id=sony-max-hd-live
 https://bongodrive.pw/bioscope.m3u8?id=sony-pix-live
 #EXTINF:-1 group-title="Bioscope" tvg-logo="",Sony Pix
 https://bongodrive.pw/bioscope.m3u8?id=sony-pix-live
+
+****** Free liveTV
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Live
+http://172.16.29.242:8080/hls/sports4/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Channeli
+http://172.16.29.242:8080/show/4016/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Ekattor TV
+http://172.16.29.242:8080/show/4017/index.m3u8
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Gazi TV
+http://172.16.29.242:8080/show/5008/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Independent TV
+http://172.16.29.242:8080/show/4008/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Jamuna TV
+http://172.16.29.242:8080/show/4005/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Madina tv
+http://172.16.29.242:8080/show/4029/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Somoy Tv
+http://172.16.29.242:8080/show/4010/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Color's Bangla Cinema 
+http://172.16.29.242:8080/show/5033/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Color's Bangla
+http://172.16.29.242:8080/show/5047/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Enterr10 Bangla
+http://172.16.29.242:8080/show/4036/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Jalsha Movie
+http://172.16.29.242:8080/show/5054/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sony Aath
+http://172.16.29.242:8080/show/5049/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Bangla
+http://172.16.29.242:8080/show/5006/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Jalsha HD
+http://172.16.29.242:8080/show/5053/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sun Bangla HD
+http://172.16.29.242:8080/show/5051/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Zee Bangla Cinema 
+http://172.16.29.242:8080/show/5050/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Zee Bangla HD
+http://172.16.29.242:8080/show/5048/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",&Flix
+http://172.16.29.242:8080/show/5014/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",&Private
+http://172.16.29.242:8080/show/5010/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",BBC
+http://172.16.29.242:8080/show/5003/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Color Infinity
+http://172.16.29.242:8080/show/5061/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Comedy Central
+http://172.16.29.242:8080/show/5057/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",HBO
+http://172.16.29.242:8080/show/5005/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",MN+
+http://172.16.29.242:8080/show/5015/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",MNX
+http://172.16.29.242:8080/show/5009/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Movies Now
+http://172.16.29.242:8080/show/5018/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Romedy Now
+http://172.16.29.242:8080/show/5059/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sony Pix
+http://172.16.29.242:8080/show/5022/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Movies
+http://172.16.29.242:8080/show/5021/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Movies Select
+http://172.16.29.242:8080/show/5011/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",TLC
+http://172.16.29.242:8080/show/5062/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Zee Cafe
+http://172.16.29.242:8080/show/5016/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",&Picture
+http://172.16.29.242:8080/show/5016/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",&Explore
+http://172.16.29.242:8080/show/5060/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Color Cineplex
+http://172.16.29.242:8080/show/5037/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Color's
+http://172.16.29.242:8080/show/5035/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Goldmines
+http://172.16.29.242:8080/show/4117/index.m3u8
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sony Ente
+http://172.16.29.242:8080/show/5034/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sony Max
+http://172.16.29.242:8080/show/5029/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Gold
+http://172.16.29.242:8080/show/5028/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Gold Select
+http://172.16.29.242:8080/show/5058/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Gold2
+http://172.16.29.242:8080/show/5063/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Plus
+http://172.16.29.242:8080/show/5030/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Zee cinema
+http://172.16.29.242:8080/show/5032/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Zee TV
+http://172.16.29.242:8080/show/5031/index.m3u8
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Euro Sport
+http://172.16.29.242:8080/show/5013/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sport
+http://172.16.29.242:8080/show/4151/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sony Sport 1
+http://172.16.29.242:8080/show/5056/index.m3u8
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sony Sports2
+http://172.16.29.242:8080/show/5044/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sony sports3
+http://172.16.29.242:8080/show/5045/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",SonybSports5
+http://172.16.29.242:8080/show/5020/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Sports18
+http://172.16.29.242:8080/show/5017/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Sports1
+http://172.16.29.242:8080/show/5052/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Sports2
+http://172.16.29.242:8080/show/5042/index.m3u8
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",Star Sports3
+http://172.16.29.242:8080/show/5019/index.m3u8
+#EXTINF:-1  LiveTV BDIX" tvg-logo="",
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
+
+#EXTINF:-1 group-title="Free LiveTV BDIX" tvg-logo="",
