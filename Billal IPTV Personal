@@ -185,10 +185,19 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_i
 http://172.16.29.242:8080/hls/sports4/index.m3u8
 #EXTINF:-1 group-title="IPL 2024" tvg-logo="", Gazi Tv
 http://103.109.56.116/live/skyfeed1006/index.m3u8
-#EXTINF:-1 group-title="IPL 2024" tvg-logo="", T Sports
+#EXTINF:-1 group-title="IPL 2024" tvg-logo="", T Sports Skyfeed
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 group-title="IPL 2024" tvg-logo="", Star Sport2 Tata
 http://sansat.net:88/02023494914746/8vPZrSmfBerZ9vn/93726
+#EXTINF:-1 group-title="IPL 2024" tvg-logo="", Star Sport2 BDIX
+http://172.16.29.242:8080/show/5042/index.m3u8
+#EXTINF:-1 group-title="IPL 2024" tvg-logo="", Gazi Tv BDIX
+http://172.16.29.242:8080/show/5008/index.m3u8
+#EXTINF:-1 group-title="IPL 2024" tvg-logo="", T Sports BDIX
+http://172.16.29.242:8080/show/5067/index.m3u8
+
+
+
 ****News
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg" group-title="News",Jamuna TV
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
