@@ -943,10 +943,10 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 group-title="SkyFeed" tvg-logo="",Zee Bangla
 http://103.109.56.116/live/funtime111/index.m3u8
+***** Hoichoi24 TV
 
-
-#EXTINF:-1 group-title="SkyFeed" tvg-logo="",
-
+#EXTINF:-1 group-title="Hoichoi24 Live TV" tvg-logo="https://i.postimg.cc/DZSNGFGP/Billal.png",G TV
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SkyFeed" tvg-logo="",
 
 #EXTINF:-1 group-title="SkyFeed" tvg-logo="",
